@@ -6,7 +6,7 @@ public class Ball {
         if (condition) {
             System.out.println("the ball is eaten");
         } else {
-                System.out.println("ball escaped");
-            }
+            System.out.println("ball escaped");
         }
     }
+}
